@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<breakfast_menu>
+  <food>
+    <name>2</name>
+    <price>S</price>
+    <description>3</description>
+    <calories>D</calories>
+  </food>
+</breakfast_menu>

@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<Adressbook>
+  <Contact>
+    <Name>arman</Name>
+    <Ağe>24</Ağe>
+    <ğender>erkek</ğender>
+  </Contact>
+  <Contact>
+    <Name>alper</Name>
+    <Ağe>23</Ağe>
+    <ğender>erkek</ğender>
+  </Contact>
+  <Contact>
+    <Name>arda</Name>
+    <Ağe>24</Ağe>
+    <ğender>erkek</ğender>
+  </Contact>
+</Adressbook>

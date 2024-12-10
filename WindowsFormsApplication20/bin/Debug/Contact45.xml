@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<iletişim2>
+  <iletişim>
+    <Name>arman</Name>
+    <Ağe>24</Ağe>
+    <ğender>erkek</ğender>
+  </iletişim>
+  <iletişim>
+    <Name>alper</Name>
+    <Ağe>23</Ağe>
+    <ğender>erkek</ğender>
+  </iletişim>
+  <iletişim>
+    <Name>arda</Name>
+    <Ağe>24</Ağe>
+    <ğender>erkek</ğender>
+  </iletişim>
+</iletişim2>
